@@ -6,3 +6,4 @@ node_modules/
 package-lock.json
 universal-tennis-1e243721cfa1.json
 ARCHIVE/
+.DS_Store
