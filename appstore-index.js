@@ -1,5 +1,3 @@
-// Fixed version of your Node.js script based on the error provided:
-
 require('dotenv').config();
 const axios = require('axios');
 const xml2js = require('xml2js');
